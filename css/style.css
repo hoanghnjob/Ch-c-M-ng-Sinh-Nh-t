@@ -44,28 +44,32 @@
 }
 
 header h2 {
-  font-family: 'Quicksans';
+  font-family: 'Arial';
+	color: white;
   font-size: 40px;
   text-align: center;
 	margin-bottom: 30px;
+	margin-top: 10px;
 }
 header h4 {
-  font-family: 'Quicksans';
-	font-size: 20px;
+  font-family: 'Arial';
+	color: white;
+	font-size: 40px;
   text-align: center;
 }
 
 @media only screen and (max-width: 500px) {
   header h2 {
-    font-family: 'Quicksans';
-    font-size: 45px;
+    font-family: 'Arial';
+    font-size: 40px;
     text-align: center;
     margin-bottom: 30px;
+	  margin-top: 10px;
   }
   header h4 {
     font-family: 'Arial';
     text-align: center;
-    padding: 15px;
+    padding: 30px;
   }
   #no{
     position: absolute;

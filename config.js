@@ -1,9 +1,7 @@
 const CONFIG = {
     introTitle: 'MinNgoc à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Trái đất Con người luôn luôn sẽ thay đổi.
+    Lúc đầu tớ thích cậu, càng về sau tới lại càng thích cậu hơn.`,
     btnIntro: 'Xem có gì nào!',
     title: 'CHÚC MỪNG SANH THẦN BÉ IU CỤA TUI 😙',
     desc: 'Yêu tui hong?',

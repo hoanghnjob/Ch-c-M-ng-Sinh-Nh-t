@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Một người vừa đẹp trai, tài giỏi, lại còn thương người iêu thì phải yêu chớ!',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Chúc em có một sinh nhật thật là vui vẻ, hạnh phúc và yêu anh nhiều hơn!!!',
+    messDesc: 'Thật may mắn, và hạnh phúc cho anh khi tìm được em là người đồng hành trong chặng đường này. Chúc em có một sinh nhật thật là vui vẻ, hạnh phúc và yêu anh nhiều hơn!!!',
     btnAccept: 'Dạaaaa <3',
     messLink: 'https://www.youtube.com/watch?v=S7KA4tQ483o' 
 }

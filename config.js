@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Thật may mắn, và hạnh phúc cho anh khi tìm được em là người đồng hành trong chặng đường này. Chúc em có một sinh nhật thật là vui vẻ, hạnh phúc và yêu anh nhiều hơn!!!',
     btnAccept: 'Dạaaaa <3',
-    messLink: 'https://www.youtube.com/watch?v=S7KA4tQ483o' 
+    messLink: 'https://youtu.be/EjpuH1dEVOo' 
 }
